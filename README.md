@@ -13,13 +13,3 @@ Average case : O(n^2)
 Best case : O(n)
 4-) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 Average Case.
-ÖDEV 2
-1-) [16,21,11,8,12,22] dizinin sort türüne göre aşamalarını yazınız.
-[16,21,11] ... [8,12,22]
-[16] ... [21,11] ... [8,12] ... [22]
-[16] ... [21] ... [11] ... [8] ... [12] ... [22]
-[16] ... [11,21] ... [8,12] ... [22]
-[11,16,21] ... [8,12,22]
-[8,11,12,16,21,22]
-2-) Big-O gösteriminiz yazınız.
-O(nlogn)
